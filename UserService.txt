@@ -1,0 +1,2 @@
+Get data from the User.
+Here data storing is not available.
